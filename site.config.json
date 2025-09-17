@@ -1,0 +1,75 @@
+{
+  "siteName": "WeAreCustomr",
+  "tagline": "CRM strategy, email marketing, and lifecycle growth for retail.",
+  "primaryColor": "#111111",
+  "secondaryColor": "#F6F6F6",
+  "accentColor": "#276EF1",
+  "logo": {
+    "light": "/assets/images/logo-light.svg",
+    "dark": "/assets/images/logo-dark.svg"
+  },
+  "contact": {
+    "email": "hello@wearecustomr.com.au",
+    "phone": "+61 0000 000 000",
+    "address": "\u2014",
+    "abn": "\u2014"
+  },
+  "social": {
+    "linkedin": "https://www.linkedin.com/company/",
+    "instagram": "https://www.instagram.com/"
+  },
+  "analytics": {
+    "ga4MeasurementId": "",
+    "gtmId": "",
+    "consentMode": true
+  },
+  "newsletter": {
+    "provider": "formspree",
+    "endpoint": "https://formspree.io/f/your-id",
+    "recaptchaSiteKey": ""
+  },
+  "integrations": {
+    "calendly": "",
+    "chatSnippet": ""
+  },
+  "seo": {
+    "defaultTitle": "WeAreCustomr \u2014 CRM & Email for Retail",
+    "defaultDescription": "Lifecycle strategy and execution for AU retail brands.",
+    "ogImage": "/assets/images/og-default.jpg",
+    "robotsPolicy": "index,follow"
+  },
+  "nav": [
+    {
+      "label": "Services",
+      "href": "/services.html"
+    },
+    {
+      "label": "Case Studies",
+      "href": "/case-studies/index.html"
+    },
+    {
+      "label": "About",
+      "href": "/about.html"
+    },
+    {
+      "label": "Blog",
+      "href": "/blog/index.html"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact.html"
+    }
+  ],
+  "forms": {
+    "contact": {
+      "fields": [
+        "name",
+        "email",
+        "company",
+        "message"
+      ],
+      "endpoint": "https://formspree.io/f/your-id",
+      "successMessage": "Thanks! We\u2019ll be in touch shortly."
+    }
+  }
+}
